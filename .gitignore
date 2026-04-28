@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Database
+crm.db
+*.db
+
+# Alembic (optional, keep only versions)
+alembic/__pycache__/
